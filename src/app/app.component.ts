@@ -18,7 +18,7 @@ export class AppComponent implements OnInit {
     this.messages = [
     {
       "name": "Evan",
-      "message": "Godblessyou!cometomangalorewithachu"
+      "message": "Godbless you! come to mangalore with Achu"
     },
     {
       "name": "Danny",
@@ -26,7 +26,7 @@ export class AppComponent implements OnInit {
     },
     {
       "name": "Indu & Ajay",
-      "message": "Stay eeeeeeeeeeeeeeeeeeing always.Have wonderful Birthday Aaron. "
+      "message": "Stay eeeeeeeeeeeeing always.Have wonderful Birthday Aaron. "
     },
     {
       "name": "Aishu",
